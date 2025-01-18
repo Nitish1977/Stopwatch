@@ -4,6 +4,7 @@ It is a simple Stopwatch.
 
 # Screenshots
 ![App Screenshot](https://github.com/Nitish1977/Stopwatch/blob/c1d4278208f7eaf266c9f12d1962f6c16636e180/Screenshot%20(10).png)
+![](https://github.com/Nitish1977/Stopwatch/blob/da14aac8bb1bda965380af65bfb585105de9ca73/Screenshot%20(11).png)
 
 
 
